@@ -127,3 +127,4 @@ The styling architecture is built centrally inside `globals.css` using dynamic r
 <p align="center">
   Built with ⚡ by <a href="https://github.com/GDG-KMIT">GDG KMIT</a>
 </p>
+new update
